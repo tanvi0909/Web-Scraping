@@ -16,7 +16,7 @@ The code can be used to gather data for different applications such as data anal
 
 Slno. |Project Name | Project Status | Project Link |
 ------------- | ------------- | ------------- | ------------- |
-1             |Company Data Scraping     | completed    |    <a href = "./Company.ipynb">click   </a>|
-<!--- 2             | Scraping     | completed     |   <a href = "./.ipynb">click   </a>            |
-3             | Standings  | completed | <a href = "./.ipynb">click </a> |
+1             |Ambition Box Company Data Scraping     | completed    |    <a href = "./companyAmbitionBox.ipynb">click   </a>|
+2             |Iphone Flipcart Scraping     | completed     |   <a href = "./iphoneFlipcart.ipynb">click   </a>            |
+<!--- 3             | Standings  | completed | <a href = "./.ipynb">click </a> |
 4             |scraping | completed | <a href = "./.ipynb">click </a> | --->
